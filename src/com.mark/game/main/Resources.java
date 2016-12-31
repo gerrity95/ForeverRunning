@@ -35,6 +35,8 @@ public class Resources {
         Frame f1 = new Frame(bunny1_walk1, .1f);
         Frame f2 = new Frame(bunny1_walk2, .1f);
 
+
+
         runAnim = new Animation(f1, f2, f1, f2);
 
     }
